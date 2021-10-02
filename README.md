@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Ciro Leguía, an Argentinan teen Coder and Graphic Designer :))
-- 👀 I’m interested Arduino, Automation, Web Design, Make apps, IoT, and another things
-- 🌱 I’m currently learning JavaScript
-- 👨🏻‍💻 Currently working in my IoT room and Rainmeter Skins
-- ⏳ In my free time i research things of my interest
-
-Languagues i know:
-Arduino, Batch, JavaScript, Processing3
+- 👋 Hi, I’m Ciro, i’m coder and graphic designer 👨🏼‍💻
+- 👀 I’m interested in Arduino, Automation, Web Design, Make apps, IoT, and another things
+- 🌱 I’m currently learning JavaScript and IoT with ESP32
+- 👨🏻‍💻 Currently working in my IoT bedroom and my own Rainmeter Skins
+- ⏳ In my free time i research things of my interest or play some videogames :)
+- 🤓 Languagues i know: Arduino, Batch, CSS, HTML, JavaScript and Processing3
