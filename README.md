@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Ciro, i’m coder and graphic designer 👨🏼‍💻
-- 👀 I’m interested in Arduino, Automation, Web Design, Make apps, IoT, and another things
-- 🌱 I’m currently learning JavaScript and IoT with ESP32
-- 👨🏻‍💻 Currently working in my IoT bedroom and my own Rainmeter Skins
-- ⏳ In my free time i research things of my interest or play some videogames :)
-- 🤓 Programming languages i know: Arduino, Batch, CSS, HTML, JavaScript and Processing3
+👨🏻‍💻 Currently working in my IoT bedroom and my own Rainmeter Skins
+
+- [IoT Rainmeter Widget](github.com/CiroLeg/IoTWidget)
