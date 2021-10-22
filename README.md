@@ -1,3 +1,8 @@
 👨🏻‍💻 Currently working in my IoT bedroom and my own Rainmeter Skins
 
-<!-- [IoT Rainmeter Widget](github.com/CiroLeg/IoTWidget)
+### Rainmeter
+- [IoT Widget (Big Sur design)](github.com/CiroLeg/IoT-Widget-BS/)
+- Working on other project, currently secret 🤫
+
+### Arduino
+- [Lazarus](https://github.com/mrian007/paloo)
