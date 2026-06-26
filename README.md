@@ -2,6 +2,7 @@ graphic designer, video producer, but a dev for making my intrussive ideas a rea
 ## WIP projects
 - Artlist Music Downloader (Chromium Extension)
 - Trello's board JSON filter (local webapp)
+- Apple Health AI Analysis
 
 ## legacy projects
 ### Rainmeter
